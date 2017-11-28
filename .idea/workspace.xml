@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9019d4df-58c1-4e4c-be4f-142df927134b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node-elm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.3148148">
-                <caret line="25" column="64" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="64" />
+              <first_editor vertical-scroll-proportion="0.58465606">
+                <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -395,8 +395,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.3148148">
-            <caret line="25" column="64" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="64" />
+          <first_editor vertical-scroll-proportion="0.58465606">
+            <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
